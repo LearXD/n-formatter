@@ -1,0 +1,164 @@
+[
+    {
+        "symbol": "K",
+        "identifier": "thousand",
+        "size": 3,
+        "range": [
+            4,
+            6
+        ]
+    },
+    {
+        "symbol": "M",
+        "identifier": "million",
+        "size": 6,
+        "range": [
+            7,
+            9
+        ]
+    },
+    {
+        "symbol": "B",
+        "identifier": "billion",
+        "size": 9,
+        "range": [
+            10,
+            12
+        ]
+    },
+    {
+        "symbol": "T",
+        "identifier": "trillion",
+        "size": 12,
+        "range": [
+            13,
+            15
+        ]
+    },
+    {
+        "symbol": "Q",
+        "identifier": "quadrillion",
+        "size": 15,
+        "range": [
+            16,
+            18
+        ]
+    },
+    {
+        "symbol": "Qi",
+        "identifier": "quintillion",
+        "size": 18,
+        "range": [
+            19,
+            21
+        ]
+    },
+    {
+        "symbol": "S",
+        "identifier": "sextillion",
+        "size": 21,
+        "range": [
+            22,
+            24
+        ]
+    },
+    {
+        "symbol": "Sd",
+        "identifier": "septillion",
+        "size": 24,
+        "range": [
+            25,
+            27
+        ]
+    },
+    {
+        "symbol": "O",
+        "identifier": "octillion",
+        "size": 27,
+        "range": [
+            28,
+            30
+        ]
+    },
+    {
+        "symbol": "No",
+        "identifier": "nonillion",
+        "size": 30,
+        "range": [
+            31,
+            33
+        ]
+    },
+    {
+        "symbol": "D",
+        "identifier": "decillion",
+        "size": 33,
+        "range": [
+            34,
+            36
+        ]
+    },
+    {
+        "symbol": "Ud",
+        "identifier": "undecillion",
+        "size": 36,
+        "range": [
+            37,
+            39
+        ]
+    },
+    {
+        "symbol": "Dd",
+        "identifier": "duodecillion",
+        "size": 39,
+        "range": [
+            40,
+            42
+        ]
+    },
+    {
+        "symbol": "Td",
+        "identifier": "tredecillion",
+        "size": 42,
+        "range": [
+            43,
+            45
+        ]
+    },
+    {
+        "symbol": "Qid",
+        "identifier": "quattuordecillion",
+        "size": 45,
+        "range": [
+            46,
+            48
+        ]
+    },
+    {
+        "symbol": "Qid",
+        "identifier": "quindecillion",
+        "size": 48,
+        "range": [
+            49,
+            51
+        ]
+    },
+    {
+        "symbol": "Sexd",
+        "identifier": "sedecillion",
+        "size": 51,
+        "range": [
+            52,
+            54
+        ]
+    },
+    {
+        "symbol": "Sptd",
+        "identifier": "septendecillion",
+        "size": 54,
+        "range": [
+            55,
+            57
+        ]
+    }
+]
